@@ -9,4 +9,5 @@ export {default as ContactInfo} from './ContactInfo/ContactInfo';
 export {default as MenuCard} from './MenuCard/MenuCard';
 export {default as AboutUsSectionPage} from './AboutUsSectionPage/AboutUsSectionPage';
 export {default as Reviews} from './Reviews/Reviews';
+export {default as ContactForm} from './ContactForm/ContactForm';
 
